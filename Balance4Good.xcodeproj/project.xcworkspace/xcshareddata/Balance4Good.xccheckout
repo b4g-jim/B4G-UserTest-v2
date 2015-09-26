@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>319198F5-B22E-4A34-9E39-9ECEE8530D57</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Balance4Good</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9108C14BF26F57263AC59620243171D67682D9FE</key>
+		<string>https://github.com/b4g-jim/data-collection-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Balance4Good.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9108C14BF26F57263AC59620243171D67682D9FE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/b4g-jim/data-collection-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9108C14BF26F57263AC59620243171D67682D9FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9108C14BF26F57263AC59620243171D67682D9FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>data-collection-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
